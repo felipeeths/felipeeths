@@ -20,8 +20,6 @@
 
 My Name is Felipe Ferreira dos Santos and i am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I’m working as a CTO at Razzo and contributing to frontend and backend for building web applications.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ferreirafelipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferreira-felipe)
 
 </div>
