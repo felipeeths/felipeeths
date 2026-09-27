@@ -1,76 +1,66 @@
+# Olá, eu sou o Felipe 👋
 
-<div id="header" align="center" height="150" >
-  <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=790b7611ad3372dac6696b6650b1bf75b8ee2ae66ba4350e&rid=giphy.gif&ct=s" />
-</div>
+### Engenheiro de Software Sênior · Full Stack · React, React Native & Node.js
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ferreira-felipe">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=felipeeths&style=flat-square&color=blue" alt=""/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferreira-felipe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethszx@gmail.com)
+![Localização](https://img.shields.io/badge/Localização-Foz%20do%20Iguaçu,%20PR%20·%20Brasil-informational?style=for-the-badge)
 
 ---
 
-### :woman_technologist: About Me :
-<div>
+### 🧭 Sobre mim
 
-My Name is Felipe Ferreira dos Santos and i am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+Engenheiro de Software com mais de **7 anos de experiência** no desenvolvimento de soluções web, mobile, backend, sistemas embarcados e infraestrutura em nuvem. Atuo como **Full Stack Developer** e **Tech Lead**, entregando soluções robustas e escaláveis para empresas de logística, financeiro, e-commerce, saúde e tecnologia.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ferreirafelipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferreira-felipe)
-
-</div>
+- 🔭 Atualmente em **[Partiu Vantagens](https://github.com/Partiu-Vantagens)** como Desenvolvedor Mobile/Front-End Sênior
+- 💼 Também atuo como **Engenheiro de Software Sênior autônomo**, incluindo projetos para **[Owsy Company](https://github.com/Owsy-Company)** e **[Travelior](https://github.com/travelior-app)**
+- 🔧 Raízes em sistemas embarcados e IoT (Arduino, ESP8266) — veja os repositórios pessoais abaixo
+- 🎓 Bacharel em Ciência da Computação — UNIOESTE
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Stack principal
 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="React" width="40" height="40" color="white"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-</div>
+**Frontend & Mobile**
 
-### :fire: My Stats :
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-<div>
+**Backend**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felipeeths&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeeths&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+**Dados**
 
-<!--
-**felipeeths/felipeeths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Here are some ideas to get you started:
+**Cloud, DevOps & Infra**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Embarcados & IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Android](https://img.shields.io/badge/Android_(Java)-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+### 📌 Projetos pessoais
+
+- **[Sistema-Filtro-IoT](https://github.com/felipeeths/Sistema-Filtro-IoT)** — sistema de monitoramento IoT
+- **[Filtro-IoT-Esp8266](https://github.com/felipeeths/Filtro-IoT-Esp8266)** — firmware embarcado para ESP8266
+- **[Arduino-Audio-Player](https://github.com/felipeeths/Arduino-Audio-Player)** — reprodutor de áudio em Arduino
+- **[App-Filtro-IoT](https://github.com/felipeeths/App-Filtro-IoT)** — app de controle para o sistema IoT
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeeths&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeeths&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/ferreira-felipe) · [ethszx@gmail.com](mailto:ethszx@gmail.com) · Foz do Iguaçu, Paraná — Brasil
