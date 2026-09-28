@@ -43,7 +43,6 @@ Software Engineer with **10+ years of experience**, working since 2016 as a Full
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipeeths&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeeths&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -84,3 +83,5 @@ Cloud, DevOps & Infra: Git (10 anos), Linux (8 anos), CI/CD (6 anos), AWS (4 ano
 [LinkedIn](https://www.linkedin.com/in/ferreira-felipe) · [ethszx@gmail.com](mailto:ethszx@gmail.com) · Foz do Iguaçu, Paraná — Brasil
 
 </details>
+
+---
